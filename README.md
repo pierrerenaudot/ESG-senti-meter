@@ -3,7 +3,7 @@ Does a wave of negative news about a company's environmental impact (e.g., “oi
 
 ## Description
 
-A more detailed description of the project. What data is being used? What is the main goal? What key libraries (e.g., Pandas, Matplotlib, Scikit-learn) are used?
+This application take news from GNews API and analyse how they impact company's stock especially due to environments news.
 
 ---
 
@@ -51,6 +51,10 @@ Install all the required Python packages using the requirements.txt file.
 # Make sure your virtual environment is activated first!
 pip install -r requirements.txt
 ```
+
+### 4. Create .env file 
+
+add GNEWS_API_KEY in it
 
 ### 💻 How to Run the Project
 
