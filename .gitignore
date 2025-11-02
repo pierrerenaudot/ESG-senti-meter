@@ -9,3 +9,5 @@ __pycache__/
 
 # local env file -- DO NOT COMMIT 
 .env
+
+datasets/
